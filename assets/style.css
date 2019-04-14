@@ -1,0 +1,39 @@
+ 
+    button,
+    div,
+    form,
+    input {
+      margin: 10px;
+    }
+.animal-btn{
+
+  background-color: lightskyblue;
+}
+
+#animal-form{
+  margin-right: 50%;
+  float: right;
+  border: 5px double green;
+  border-radius: 5px;
+  background-image:url("dynamic-style.png")
+  
+}
+
+h1{
+  text-align: center;
+}
+
+#buttons-view{
+  display: inline-block;
+  border: 5px double green;
+  border-radius: 5px;
+}
+
+#add-animal{
+  background-color: skyblue;
+}
+.container{
+  background-image:url("dynamic-style.png")
+}
+
+ 
