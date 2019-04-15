@@ -32,7 +32,7 @@
               var animalDiv = $("<div>");
 
              
-animalDiv.addClass("img-"+[i]);
+animalDiv.addClass("img");
 animalDiv.attr("id", "rating-"+[i]);
 appearGif.append(animalDiv);
 
